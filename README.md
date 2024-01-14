@@ -1,2 +1,1 @@
-# Medasani_ICP1
-Neural networks Assignment 1
+ZOOM VIDEO LINK  https://drive.google.com/drive/folders/1P5lJXyLI4oVCunBbaPUTU5Hlw3tSMXx6
